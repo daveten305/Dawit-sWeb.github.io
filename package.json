@@ -1,0 +1,24 @@
+{
+  "name": "dawit'sweb",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daveten305/Dawit-sWeb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage":"https://Dawit-sWeb.github.io/myportfolio2022",
+  "bugs": {
+    "url": "https://github.com/daveten305/Dawit-sWeb/issues"
+  },
+  "homepage": "https://github.com/daveten305/Dawit-sWeb#readme",
+  "description": "",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
