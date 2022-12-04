@@ -28,7 +28,7 @@ baseurl: "/Dawit-sWeb.github.io" # the subpath of your site, e.g. /blog
 url: "https://daveten305/Dawit-sWeb.github.io"
 # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
-github_username:  daveten305
+github_username:  jekyll 
 
 # Build settings
 theme: minima
